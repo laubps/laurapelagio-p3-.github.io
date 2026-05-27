@@ -36,9 +36,9 @@ proyecto/
 
 ## Despliegue
 
-**Sitio en vivo:** [PENDIENTE – pegar URL de Netlify o GitHub Pages]
+**Sitio en vivo:** 
 
-**Repositorio:** [PENDIENTE – pegar URL del repositorio]
+**Repositorio:** https://github.com/laubps/laurapelagio-p3-.github.io/
 
 ## Ejecución local
 
