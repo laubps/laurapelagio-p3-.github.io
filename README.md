@@ -36,7 +36,7 @@ proyecto/
 
 ## Despliegue
 
-**Sitio en vivo:** 
+**Sitio en vivo:** https://laubps.github.io/laurapelagio-p3-.github.io/
 
 **Repositorio:** https://github.com/laubps/laurapelagio-p3-.github.io/
 
